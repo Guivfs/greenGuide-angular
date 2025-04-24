@@ -1,0 +1,14 @@
+.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  h1, h2 {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .card-title {
+    font-weight: bold;
+    color: #2D6A4F;
+  }
+  
